@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <title>
+            Our first web page
+        </title>
+    </head>
+
+    <body>
+        Welcome every one for this UI Fullstack course
+    </body>
+    <script>
+        var msg = "hello";
+    </script>
+</html>
